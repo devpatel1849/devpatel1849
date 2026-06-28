@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a motivated fresher with a strong interest in Python and AI-ML development. I have hands-on experience working with Django, MySQL, REST APIs, and machine learning models such as ARIMA, GRU, and XGBoost through academic and personal projects. I am eager to learn, improve my technical skills, and contribute to real-world software solutions through an internship opportunity.
+Aspiring AI/ML Engineer with hands-on experience in Machine Learning, Generative AI, Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), and Computer Vision. Currently working as an AI/ML Intern, developing AI-powered document processing, OCR automation, and object detection solutions using YOLOv8 and OpenCV. Skilled in Python, LangChain, Hugging Face, TensorFlow, PyTorch, Vector Databases (Pinecone, FAISS, ChromaDB), and modern AI frameworks. Built end-to-end AI applications including a RAG-based Medical Chatbot, AI-powered Resume Builder, and Demand Forecasting System. Passionate about developing scalable AI solutions, solving real-world business problems, and contributing to innovative AI products.
 
 
 ## 🌐 Socials:
